@@ -28,8 +28,8 @@ This project uses a **synthetic/educational dataset** sourced from Kaggle and is
 ## How to Run Locally
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Shan-Arangodan/Cancer-Survival-Predictor.git
+cd Cancer-Survival-Predictor
 pip install -r requirements.txt
 streamlit run Cancerpred.py
 ```
